@@ -392,17 +392,17 @@ size=15704468
 category=engine
 [ENGINE2]
 platform=x86
-versionid=13573
+versionid=13577
 type=engine
-version=13573 (20160531)
+version=13577 (20160601)
 group=perseus,ra,core
-date=31.05.2016
+date=01.06.2016
 file=nod615F.nup
 buildregname=EngineBuild
-build=29646
+build=29654
 level=2
 base=29592
-size=265024
+size=300493
 category=engine
 [SYSTEMSTATUS640]
 platform=x64
